@@ -302,7 +302,7 @@ struct ContentView: View {
                                             Text("SPACE ALIEN")
                                                 .font(.system(size: 33.5,design:.rounded))
                                                 .fontWeight(.heavy)
-                                                .foregroundColor(Color.red)
+                                                .foregroundColor(Color.orange)
                                                 .padding()
                                                 .multilineTextAlignment(.center)
                                                 .position(x:200,y:50)

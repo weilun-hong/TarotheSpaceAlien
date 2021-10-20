@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		682C85A3271F0BC3001FE100 /* LongSleeveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 682C85A2271F0BC3001FE100 /* LongSleeveView.swift */; };
+		682C85A5271F2E89001FE100 /* Alien2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 682C85A4271F2E89001FE100 /* Alien2.swift */; };
 		6853B7D1271AC92F00C30260 /* TarotheSpaceAlienApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6853B7D0271AC92F00C30260 /* TarotheSpaceAlienApp.swift */; };
 		6853B7D3271AC92F00C30260 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6853B7D2271AC92F00C30260 /* ContentView.swift */; };
 		6853B7D5271AC93000C30260 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6853B7D4271AC93000C30260 /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		682C85A2271F0BC3001FE100 /* LongSleeveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongSleeveView.swift; sourceTree = "<group>"; };
+		682C85A4271F2E89001FE100 /* Alien2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alien2.swift; sourceTree = "<group>"; };
 		6853B7CD271AC92F00C30260 /* TarotheSpaceAlien.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TarotheSpaceAlien.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6853B7D0271AC92F00C30260 /* TarotheSpaceAlienApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TarotheSpaceAlienApp.swift; sourceTree = "<group>"; };
 		6853B7D2271AC92F00C30260 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +58,8 @@
 			children = (
 				6853B7D0271AC92F00C30260 /* TarotheSpaceAlienApp.swift */,
 				6853B7D2271AC92F00C30260 /* ContentView.swift */,
+				682C85A4271F2E89001FE100 /* Alien2.swift */,
+				682C85A2271F0BC3001FE100 /* LongSleeveView.swift */,
 				6853B7D4271AC93000C30260 /* Assets.xcassets */,
 				6853B7D9271AC93000C30260 /* Info.plist */,
 				6853B7D6271AC93000C30260 /* Preview Content */,
@@ -138,7 +144,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				682C85A3271F0BC3001FE100 /* LongSleeveView.swift in Sources */,
 				6853B7D3271AC92F00C30260 /* ContentView.swift in Sources */,
+				682C85A5271F2E89001FE100 /* Alien2.swift in Sources */,
 				6853B7D1271AC92F00C30260 /* TarotheSpaceAlienApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
